@@ -9,4 +9,4 @@
 ## Lab8: Reliable UDP Challenge
 - We implement both client and server
 - Sender(client) send 1000 files using UDP with high speed transmission
-- We need to ensure 100% corerctness at the receiver(server) under highly congested network
+- We need to ensure 100% correctness at the receiver(server) under highly congested network
